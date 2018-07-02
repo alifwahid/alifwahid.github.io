@@ -1,1 +1,1 @@
-Jekyll based blog.
+Jekyll blog under construction.
