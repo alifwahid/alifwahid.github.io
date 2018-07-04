@@ -1,5 +1,5 @@
 This repo contains my personal blog from https://www.alifwahid.com. It's a
-Jekyl generated static site, using a modified version of the default minima
+Jekyll generated static site, using a modified version of the default minima
 theme.
 
 The main changes I made to minima were:
