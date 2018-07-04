@@ -29,6 +29,9 @@ paginate_path: "/page:num/"
 
 exclude:
   - README.md
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
 
 sass:
   style: compressed
