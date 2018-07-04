@@ -54,3 +54,7 @@ $$
     \end{array} \right)
 \end{align*}
 $$
+
+YouTube embedding works, too.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hlrv7DIHllE?start=150" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
