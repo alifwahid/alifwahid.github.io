@@ -14,3 +14,9 @@
 .pagination {
     text-align: center;
  }
+
+.site-search {
+    margin-left: 20px;
+    line-height: $base-line-height * $base-font-size * 2.25;
+    display: inline-block;
+}
