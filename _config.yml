@@ -36,6 +36,10 @@ google_analytics: UA-121681657-1
 
 show_excerpts: true
 
+paginate: 5
+
+paginate_path: "/page:num/"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
