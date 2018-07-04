@@ -13,8 +13,8 @@ permalink: /search/
         "title": "{{ post.title | xml_escape }}",
         "author": "{{ post.author | xml_escape }}",
         "category": "{{ post.category | xml_escape }}",
-        "content": {{ post.content | strip_html | strip_newlines | jsonify }},
-        "excerpt": {{ post.excerpt | strip_html | strip_newlines | jsonify }},
+        "content": {{ post.content | strip_html | jsonify }},
+        "excerpt": {{ post.excerpt | strip_html | jsonify }},
         "url": "{{ post.url | xml_escape }}"
       }
       {% unless forloop.last %},{% endunless %}
