@@ -12,7 +12,7 @@
             for (var i = 0; i < results.length; i++) {
                 var item = store[results[i].ref];
                 appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3>';
-                appendString += '<p>' + item.content.substring(0, 150) + '...</p></a></li>';
+                appendString += '<p>' + item.excerpt.substring(0, 150) + '...</p></a></li>';
             }
             searchResults.innerHTML = appendString;
         } else {
@@ -39,16 +39,16 @@
         var idx = lunr(function () {
             this.field('id');
             this.field('title', {boost: 10});
-            this.field('author');
-            this.field('category');
+            this.field('tags');
+            this.field('categories');
             this.field('content');
             this.field('excerpt');
             for (var key in window.store) {
                 this.add({
                     'id': key,
                     'title': window.store[key].title,
-                    'author': window.store[key].author,
-                    'category': window.store[key].category,
+                    'tags': window.store[key].tags,
+                    'categories': window.store[key].categories,
                     'content': window.store[key].content,
                     'excerpt': window.store[key].excerpt
                 });
