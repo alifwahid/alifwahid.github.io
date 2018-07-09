@@ -1,6 +1,5 @@
-This repo contains my personal blog from https://www.alifwahid.com. It's a
-Jekyll generated static site, using a modified version of the default minima
-theme.
+This repo contains my personal blog from https://alifwahid.com. It's a Jekyll
+generated static site, using a modified version of the default minima theme.
 
 The main changes I made to minima were:
 1. Added pagination and navigation links
