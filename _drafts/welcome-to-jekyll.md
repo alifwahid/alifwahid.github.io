@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2018-07-02 19:01:59 +0800
+tags:
 categories: jekyll update
 excerpt: foo bar
-comments: false
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and
