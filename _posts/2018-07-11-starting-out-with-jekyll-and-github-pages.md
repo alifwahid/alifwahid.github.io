@@ -25,7 +25,7 @@ longer. Thus alifwahid.com was born!
 Keeping a public blog appeals to me only as a means to entertain my future
 self. That boils down to writing plain text now, and reading the typeset pages
 later. Everything else is irrelevant. So it shouldn't be hard to see why a
-statically generated site is my preference. Of course, there are many other
+statically generated site is my preference. Of course there are many other
 pros, and a handful of cons, when dealing with static sites. It turns out that
 Jekyll and GitHub Pages make them all irrelevant, too.
 
@@ -37,7 +37,7 @@ JavaScript for hosting by a simple web server, such as GitHub Pages. No need
 for anything fancier. GitHub Pages is smart enough to use the automated *Let's
 Encrypt* certificate authority for serving sites over HTTPS - that's a major,
 major plus in my book! So I can initially reside in the offline world of Git,
-then push (i.e., publish) my writing when its ready.
+then push (i.e., publish) my writing when it's ready.
 
 Strictly speaking, JavaScript is not required for a statically generated
 website. But I prefer to use it for various client-side benefits (e.g.,
