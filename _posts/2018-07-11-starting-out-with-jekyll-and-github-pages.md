@@ -13,11 +13,11 @@ excerpt    : Initial post about setting up this blog.
 
 ## In the beginning ...
 
-I wanted to start a public blog long ago, but the perennial procrastination
-just kept on getting the better of me. It didn't help that I never liked any of
-the platform offerings out there in the blogosphere - until I came across
-Jekyll and GitHub Pages. Blogging in Git suddenly seemed too enjoyable a
-pastime to defer any longer. Thus alifwahid.com was born!
+I wanted to start a public blog long ago, but the perennial procrastination got
+the better of me. It didn't help that I never liked any of the platform
+offerings out there in the blogosphere - until I came across Jekyll and GitHub
+Pages. Blogging in Git suddenly seemed too enjoyable a pastime to defer any
+longer. Thus alifwahid.com was born!
 
 
 ## I prefer static
@@ -76,7 +76,7 @@ comes.
 Well, now that the blogging is underway, it's a matter of pushing whenever I've
 got something written up and ready to go. Being a hobby of sorts, there won't
 be any kind of schedule for new content. I have plenty of topics in mind. All
-will be published in due course.
+will be discussed in due course.
 
 
 [cclink]: https://learn.cloudcannon.com/jekyll/jekyll-search-using-lunr-js/
