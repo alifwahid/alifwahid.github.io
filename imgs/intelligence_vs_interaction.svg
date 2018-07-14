@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="41cm" height="30cm" viewBox="228 -23 814 588" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x="380" y="160" width="440" height="360"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="600" y="343.9">
+      <tspan x="600" y="343.9"></tspan>
+    </text>
+  </g>
+  <text font-size="22.5778" style="fill: #000000;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="300">
+    <tspan x="360" y="300">Individual</tspan>
+    <tspan x="360" y="328.222">Intelligence</tspan>
+  </text>
+  <text font-size="22.5778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="640" y="560">
+    <tspan x="640" y="560">Group Interaction</tspan>
+  </text>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="400" y="500">
+    <tspan x="400" y="500">Viruses</tspan>
+  </text>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="400" y="460">
+    <tspan x="400" y="460">Bacteria</tspan>
+  </text>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="740" y="180">
+    <tspan x="740" y="180">Humans</tspan>
+  </text>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="460" y="400">
+    <tspan x="460" y="400">Trees</tspan>
+  </text>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="500" y="320">
+    <tspan x="500" y="320">Octopuses</tspan>
+  </text>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="600" y="320">
+    <tspan x="600" y="320">Dolphins</tspan>
+  </text>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="680" y="400">
+    <tspan x="680" y="400">Bees</tspan>
+  </text>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="740" y="400">
+    <tspan x="740" y="400">Ants</tspan>
+  </text>
+  <text font-size="14.1111" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="380" y="553.1">
+    <tspan x="380" y="553.1">Lowest</tspan>
+  </text>
+  <text font-size="14.1111" style="fill: #000000;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="520">
+    <tspan x="360" y="520">Lowest</tspan>
+  </text>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="500" y="280">
+    <tspan x="500" y="280">Crows</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="380" y1="520" x2="1029" y2="520"/>
+    <polygon style="fill: #000000" points="1029,525 1039,520 1029,515 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1029,525 1039,520 1029,515 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="380" y1="520" x2="380" y2="-9"/>
+    <polygon style="fill: #000000" points="385,-9 380,-19 375,-9 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="385,-9 380,-19 375,-9 "/>
+  </g>
+  <g>
+    <g>
+      <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="620" y1="120" x2="620" y2="31"/>
+      <polygon style="fill: #000000" points="625,31 620,21 615,31 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="625,31 620,21 615,31 "/>
+    </g>
+    <g>
+      <ellipse style="fill: #ffffff" cx="620" cy="80" rx="20.4643" ry="20"/>
+      <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="620" cy="80" rx="20.4643" ry="20"/>
+      <text font-size="16.9333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="620" y="85.1667">
+        <tspan x="620" y="85.1667">1</tspan>
+      </text>
+    </g>
+  </g>
+  <g>
+    <g>
+      <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="860" y1="120" x2="932.222" y2="47.7782"/>
+      <polygon style="fill: #000000" points="935.757,51.3137 939.293,40.7071 928.686,44.2426 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="935.757,51.3137 939.293,40.7071 928.686,44.2426 "/>
+    </g>
+    <g>
+      <ellipse style="fill: #ffffff" cx="900.464" cy="80" rx="20.4643" ry="20"/>
+      <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="900.464" cy="80" rx="20.4643" ry="20"/>
+      <text font-size="16.9333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="900.464" y="85.1667">
+        <tspan x="900.464" y="85.1667">3</tspan>
+      </text>
+    </g>
+  </g>
+  <g>
+    <g>
+      <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="860" y1="360" x2="949" y2="360"/>
+      <polygon style="fill: #000000" points="949,365 959,360 949,355 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="949,365 959,360 949,355 "/>
+    </g>
+    <g>
+      <ellipse style="fill: #ffffff" cx="900.464" cy="360" rx="20.4643" ry="20"/>
+      <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="900.464" cy="360" rx="20.4643" ry="20"/>
+      <text font-size="16.9333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="900.464" y="365.167">
+        <tspan x="900.464" y="365.167">2</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
