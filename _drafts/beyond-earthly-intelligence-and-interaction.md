@@ -12,17 +12,13 @@ excerpt    : Extrapolating from current life forms to future possibilities.
 
 
 
-## Five books
-
-### Axelrod
+## Good books
 
 ### Mitchell
 
+### Axelrod
+
 ### West
-
-### Bostrom
-
-### Harari
 
 
 
