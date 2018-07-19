@@ -14,11 +14,11 @@ excerpt    : Extrapolating from current life forms to future possibilities.
 
 ## Good books
 
-### Mitchell
-
-### Axelrod
+### Nowak
 
 ### West
+
+### Smil
 
 
 
