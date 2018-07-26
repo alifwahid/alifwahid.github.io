@@ -123,7 +123,7 @@ led me to consider risk and reward in a new light. That's how I came to love
 Kahneman's book. In addition, Nassim Nicholas Taleb has written some thought
 provoking books on these topics. The key lesson I've taken away from Taleb's
 writing is the wisdom of restricting losses and unrestricting gains. That is,
-regardless of the risk that maybe inherent in a problem, the correct action is
+regardless of the risk that may be inherent in a problem, the correct action is
 to focus on manipulating the gains and losses, rather than the
 probability. Taleb calls it fixing the exposure and not the probability,
 because we cannot estimate probabilities accurately for rare events. So control
