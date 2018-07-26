@@ -52,13 +52,13 @@ The first is about the past, and is asking for narratives. The second is about
 the future, and is asking for consequences. Both are valid regardless of any
 given solution to a problem. So the importance of a problem can be justified in
 terms of past narratives and future consequences. All other details in that
-justification effort really fall into those two categories. Thus my initial two
+justification effort really fall into these two categories. Thus my initial two
 questions are actually better remembered as three questions, which I've
 illustrated below in the image of an upper case Y.
 
 ![problematic-y]({{ "/imgs/problematic_y.svg" | absolute_url }})
 
-Short placeholders for these questions are _narratives_ (left branch of the Y),
+Short labels for these questions are _narratives_ (left branch of the Y),
 _definition_ (trunk of the Y) and _consequences_ (right branch of the Y). You
 can read this diagram from left to right. The three questions are framed
 correspondingly in the past, present and future tenses to aid comprehension.
@@ -88,7 +88,7 @@ cost people (i.e., use a suitable measure of cost, not just money)?
 
 Whose problem is it? Is it a need (which is compulsory) or a want (which is
 optional)? Do people recognise it as a problem or are they unaware of its
-existence? Have people become habituated to it to such an extent that it's not
+existence? Have people habituated to it to such an extent that it's no longer
 worth solving?
 
 ### Philosophy
@@ -119,13 +119,13 @@ vehemently because the pain of losing is a stronger emotion than the converse
 joy of winning. This is the insight behind Postman's second question above.
 
 More broadly, thinking about consequences of any given problem has typically
-led me to consider risk and reward in a new light. That's how I came across
-Kahneman's wonderful book. In addition, Nassim Nicholas Taleb has written some
-thought provoking books on these topics. The key lesson I've taken away from
-Taleb's writing is the wisdom of restricting losses and unrestricting
-gains. That is, regardless of the risk that maybe inherent in a problem, the
-correct action is to focus on manipulating the gains and losses, rather than
-the probability. Taleb calls it fixing the exposure and not the probability,
+led me to consider risk and reward in a new light. That's how I came to love
+Kahneman's book. In addition, Nassim Nicholas Taleb has written some thought
+provoking books on these topics. The key lesson I've taken away from Taleb's
+writing is the wisdom of restricting losses and unrestricting gains. That is,
+regardless of the risk that maybe inherent in a problem, the correct action is
+to focus on manipulating the gains and losses, rather than the
+probability. Taleb calls it fixing the exposure and not the probability,
 because we cannot estimate probabilities accurately for rare events. So control
 your exposure in all the ways you can (e.g., insurance, contracts), and ignore
 probabilities.
