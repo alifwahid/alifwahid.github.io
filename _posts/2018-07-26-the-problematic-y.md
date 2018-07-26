@@ -138,5 +138,5 @@ thought experiment or a thinking tool that helps to see the main points of a
 problem. I strongly recommend his book _Intuition Pumps and Other Tools For
 Thinking_. What I've learned from that book (and other books by Dennett) is
 that it is indeed possible to think clearly, with a little effort, even if it's
-not fun (as the _Science_ paper at the start of this post made clear). Hence
-_The Problematic Y_ has been a thoroughly helpful intuition pump for me.
+not fun (as the Science paper at the start of this post made clear). Hence _The
+Problematic Y_ has been a thoroughly helpful intuition pump for me.
