@@ -74,7 +74,7 @@ some neat results in a 2010 paper in the journal Science, titled [*Optical
 Clocks and Relativity*][winelandlink]. Using clocks that can keep time to a
 resolution smaller than $$10^{-17}$$ seconds, they measured the relativistic
 time dilation due to uniform motion and gravitational potential. I also
-strongly recommend the following lecture by Winleand from late 2017.
+strongly recommend the following lecture by Wineland from late 2017.
 
 <iframe width="560" height="315"
 src="https://www.youtube-nocookie.com/embed/AHcOJLvpFYI?rel=0" frameborder="0"
