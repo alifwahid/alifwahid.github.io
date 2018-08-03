@@ -24,7 +24,7 @@ google_analytics: UA-121681657-1
 
 show_excerpts: true
 
-paginate: 5
+paginate: 3
 paginate_path: "/page:num/"
 
 exclude:
