@@ -89,10 +89,10 @@ Since Einstein made time slippery in two important ways, coupled with the
 time-invariant nature of the laws of physics, it's worth pondering whether time
 is an illusion or not. My suspicions are that it indeed is, and I'm not alone
 in thinking that way.  Carlo Rovelli is definitely a poet, as much as a
-physicist. I have yet to read his latest book *Order of Time*. But his lecture
-at The Royal Institution below is thoroughly enlightening, just as his previous
-books were. He reminds people at one point that "your head is older than your
-feet". Go figure!
+physicist. I have yet to read his latest book *The Order of Time*. But his
+lecture at The Royal Institution below is thoroughly enlightening, just as his
+previous books were. He reminds people at one point that "your head is older
+than your feet". Go figure!
 
 <iframe width="560" height="315"
 src="https://www.youtube-nocookie.com/embed/-6rWqJhDv7M?rel=0" frameborder="0"
