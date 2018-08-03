@@ -40,14 +40,14 @@ surface of various geometric objects. He derives a simple equation (number 42.6
 in the linked site) that I'll reproduce below in verbose form.
 
 $$ \begin{equation}
-\frac{\text{time at your feet}}{\text{time at your head}} =
+\frac{\text{clock at your feet}}{\text{clock at your head}} = \;
 \frac{\text{gravity} \times \text{height}}{\text{lightspeed}^2} + 1
 \end{equation}
 $$
 
 Gravity and lightspeed are well known constants, while the $$+1$$ at the end
-indicates that time at your feet is slower than time at your head. So the
-fraction on the right-hand side is what matters really, and that's the clock
+indicates that a clock at your feet is slower than a clock at your head. So the
+fraction on the right-hand side is what matters really, and that's the constant
 drift of one part in $$10^{-16}$$ per metre of height that I mentioned earlier.
 
 [feynmanlink]: http://www.feynmanlectures.caltech.edu/II_42.html
@@ -91,8 +91,8 @@ is an illusion or not. My suspicions are that it indeed is, and I'm not alone
 in thinking that way.  Carlo Rovelli is definitely a poet, as much as a
 physicist. I have yet to read his latest book *The Order of Time*. But his
 lecture at The Royal Institution below is thoroughly enlightening, just as his
-previous books were. He reminds people at one point that "your head is older
-than your feet". Go figure!
+previous books were. He remarks at one point that "your head is older than your
+feet". Go figure!
 
 <iframe width="560" height="315"
 src="https://www.youtube-nocookie.com/embed/-6rWqJhDv7M?rel=0" frameborder="0"
