@@ -58,7 +58,7 @@ drift of one part in $$10^{-16}$$ per metre of height that I mentioned earlier.
 Time dilation applies to planets and stars of course. I came across an
 interesting 2016 paper from the European Journal of Physics, titled [*The young
 centre of the Earth*][doi]. The authors show simple calculations for the Earth
-and the Sun, whereby their centres are older than their surfaces by 2.5 years
+and the Sun, whereby their centres are younger than their surfaces by 2.5 years
 and 39,000 years respectively. Perhaps this is even more poetic than the
 thought of my feet being younger than my head. Now try to imagine time at the
 centre of a black hole versus its event horizon!
