@@ -17,8 +17,8 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 
-disqus:
-  shortname: alifwahid
+#disqus:
+#  shortname:
 
 google_analytics: UA-121681657-1
 
