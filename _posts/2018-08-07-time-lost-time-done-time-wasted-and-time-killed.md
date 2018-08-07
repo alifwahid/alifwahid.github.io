@@ -60,7 +60,7 @@ we can't forget an unrecoverable cost so easily. And we also have certain
 biases (such as [loss aversion][losslink]) that make us overvalue unrecoverable
 costs. It's the kind of predicament that leads to a litany of fallacies and
 examples of bad decisions; among them is the overwhelming tendency to think
-that any amount of time spent doing something is a sunk cost.
+that any amount of time spent doing something is a *non-negligible* sunk cost.
 
 [biaslink]: https://en.wikipedia.org/wiki/List_of_cognitive_biases
 [opplink]:  https://www.investopedia.com/terms/o/opportunitycost.asp
@@ -93,14 +93,14 @@ of the rare and extreme events in our lives at every scale. This leads to
 severely flawed estimates of opportunity costs when making big decisions, as
 far as I see things nowadays.
 
-What about the tendency to see any time spent as a sunk cost? I think that is
-also clearly viewed through the lens of limiting losses with the potential for
-unlimited gains. Of course you cannot get back the time you've spent
-already. But as I mentioned earlier, time has a mysterious way of replenishing
-itself in the future. I think the lens of sunk cost distorts the picture of the
-real world in such a way that we don't take account of multiplying
-effects. Phrased another way: time gain can result from time spent due to
-unforeseen multipliers.
+What about the tendency to see any time spent as a non-negligible sunk cost? I
+think that picture is made clear by the lens of limiting losses with the
+potential for unlimited gains. Of course you cannot get back the time you've
+spent already. But as I mentioned earlier, time has a mysterious way of
+replenishing itself in the future. I think the lens of sunk cost distorts the
+picture of the real world in such a way that we don't take account of
+multiplying effects. Phrased another way: time gain can result from time spent
+due to unforeseen multipliers.
 
 Consider writers for example. Best selling authors never know whether their
 works will become best sellers or not. They just go ahead writing anyhow, at
