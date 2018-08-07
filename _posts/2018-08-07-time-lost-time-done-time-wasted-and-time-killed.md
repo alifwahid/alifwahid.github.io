@@ -94,7 +94,7 @@ severely flawed estimates of opportunity costs when making big decisions, as
 far as I see things nowadays.
 
 What about the tendency to see any time spent as a non-negligible sunk cost? I
-think that picture is made clear by the lens of limiting losses with the
+think that that picture is made clear by the lens of limiting losses with the
 potential for unlimited gains. Of course you cannot get back the time you've
 spent already. But as I mentioned earlier, time has a mysterious way of
 replenishing itself in the future. I think the lens of sunk cost distorts the
