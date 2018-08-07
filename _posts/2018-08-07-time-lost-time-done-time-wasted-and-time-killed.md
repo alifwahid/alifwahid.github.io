@@ -22,7 +22,7 @@ lost. And *time killed* is a rather nonchalant form of indifference (my
 favourite pastime).
 
 What about *time gained*? Does that even make sense? How can *time spent* lead
-to *time gained*? Hmm...food for thought, me thinks. My [previos post][prev]
+to *time gained*? Hmm...food for thought, me thinks. My [previous post][prev]
 discussed a legitimate case of time gained, thanks to Einstein's
 relativity. But it is a minuscule effect during the course of a human's life. I
 suppose what I'm alluding to is the subtle task of deciding what to spend time
