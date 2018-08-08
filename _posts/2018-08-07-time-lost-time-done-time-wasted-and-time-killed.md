@@ -13,7 +13,7 @@ excerpt    : Deciding what to spend time on is tricky.
 
 ## Subtleties abound
 
-All the past participles in that title are fairly distinct by
+All the past participles in that title at the top are fairly distinct by
 themselves. However, prepend the word *time* and they become more subtle. Each
 is sort of an evocation about the time spent doing something. *Time lost* is
 perhaps a lamentation, somewhat accidental maybe. *Time done* is a statement of
@@ -49,8 +49,8 @@ making money-related decisions. Time, on the other hand, is a little tricky. If
 you happen to be nonchalantly indifferent about time killed doing something
 that won't payoff big in the future, it's not worth worrying about. But, then
 again, it might create regret in the future, which is hard to deal with for
-most people. The real difficulty lies in estimating the utilities (more on this
-point further below).
+most people. Hence the difficulty lies in estimating such utilities (more on
+this point further below).
 
 [Sunk cost][sunklink]: *after* having made a decision, forget about any cost
 that is simply unrecoverable and be *memoryless* in your next decision, i.e.,
@@ -74,7 +74,7 @@ I don't find any intuitive appeal in the aforementioned manner of evaluating
 choices. I have no doubt that thinking about opportunity costs while ignoring
 sunk costs is the rational thing to do (I understand the mathematics). However,
 the human mind didn't evolve to make decisions purely on a rational basis. That
-requires far too much understanding and forgetfulness that ultimately leads to
+requires far too much understanding and forgetfulness that ultimately lead to
 a reduction in fitness. Instead, I've learned to prefer the approach advocated
 by [Nassim Nicholas Taleb][taleblink] in his books, which is about focusing on
 limiting the loss while making the gains unlimited whenever faced with a
@@ -83,7 +83,7 @@ perpetually uncertain choices we face, and Taleb's trick is very handy here.
 
 [taleblink]: http://www.fooledbyrandomness.com/
 
-The difficulty in evaluating the opportunity cost of limited time (as a
+The difficulty in evaluating the opportunity cost of your time (as a limited
 resource) is that the value derived is uncertain. Whenever you attempt to be
 rational, you have to make questionable assumptions about the utility of your
 limited time spent doing something else. At that point, it's tricky to track
