@@ -44,7 +44,7 @@ belief.
 
 Doubt never stops one from acting with conviction. Instead, it forces one to
 ensure that a strongly held belief is not provably wrong. That doesn't mean the
-belief is automatically right, because beliefs lie in a spectrum from wrong to
+belief is automatically right, because beliefs lie on a spectrum from wrong to
 right, with the only certainty residing on the wrong end. Therefore, the
 salient question to ponder always is *Am I wrong?* This is all too often
 mistaken for being sheepish, or lacking in confidence, etc. But enlightenment
