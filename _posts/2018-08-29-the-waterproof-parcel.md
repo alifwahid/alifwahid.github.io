@@ -33,10 +33,9 @@ to its sender, undamaged, and unopened.
 The threats of reality are somehow vanquished by stencilling angel wings on a
 box, if *Cast Away* is to be taken literally. Even figuratively speaking,
 ignoring reality is both marvellous and flawed. The crossroads of these forces
-fascinates me endlessly, much as Chuck is rhetorically left standing on one at
-the end of *Cast Away*. How is ignorance bliss? Is its absence doomed to drown
-us in a sea of details? Can it be harnessed as a deliberative, reflective
-thinking tool?
+fascinates me endlessly, much as Chuck is rhetorically left standing at one in
+the end. How is ignorance bliss? Is its absence doomed to drown us in a sea of
+details? Can it be harnessed as a deliberative, reflective thinking tool?
 
 
 ## The discovery of ignorance
