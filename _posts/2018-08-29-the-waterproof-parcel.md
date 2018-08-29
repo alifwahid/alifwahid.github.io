@@ -14,7 +14,7 @@ excerpt    : Marvels and flaws of ignorance.
 ## Angel wings on a box
 
 In the film *Cast Away* (2000), there's a poignant scene where Chuck (played by
-Tom Hanks) is floating on his makeshift raft, emaciated and barely conscious,
+Tom Hanks) is lying on his floating raft, emaciated and barely conscious,
 accompanied by his lifeless friend Wilson. Slowly, Wilson becomes untethered
 and begins to drift away. When Chuck realises this he desperately tries to
 retrieve Wilson, but returns to the raft empty-handed after almost drowning in
