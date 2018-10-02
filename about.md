@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![profile]({{ "/imgs/profile.jpg" | absolute_url }})
+
 Hello, my name is Alif Wahid. Welcome to my personal blog. It contains bits and
 pieces that interest me. Feel free to get in touch via the social media links
 at the bottom (only GitHub and Twitter, as I have no presence elsewhere). For
