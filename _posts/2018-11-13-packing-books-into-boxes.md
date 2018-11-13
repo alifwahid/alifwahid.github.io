@@ -40,9 +40,9 @@ case, the aforementioned volume limit of 1.2 cubic metres is the obvious
 one. But I also had to consider a couple more, as follows.
 
 * Maintain the structural integrity of each box, i.e., make it as dense as
-  possible from top to bottom such that piling on more boxes above won't
-  collapse the cardboard walls (assuming that boxes are piled in the clearly
-  marked "This Way Up" orientation).
+  possible from top to bottom such that piling on more boxes higher won't
+  buckle the cardboard walls (assuming that boxes are piled higher in the
+  clearly marked "This Way Up" orientation).
 
 * Minimise the weight of each box so that they can be easily handled by the
   removalists.
@@ -67,7 +67,7 @@ scrunched up paper balls, etc.
 Supporting many further boxes piled on top requires that each column has no
 horizontal gap so that the cardboard walls are not bearing any load. Of course
 this would all turn pear shaped if the boxes are not piled in the designated
-orientation. I tried to counter that, somewhat, by packing as many hardcover
+orientation. So I tried to counter that, somewhat, by packing as many hardcover
 books between the columns as possible, along with filler material to ensure
 that the books in each column don't shift or slide horizontally with ease.
 
@@ -103,8 +103,7 @@ wall you can glean at the right-hand edge of the picture above). It would work
 best with same sized books, preferably all hardcover, that can each stand on
 its spine and become perpendicular at alternating layers for interlocking
 strength of the whole structure (akin to a Jenga tower). It would also provide
-much better support for piling boxes in a disoriented fashion (i.e., not
-according to the marked "This Way Up" orientation). However, books of wildly
-varying sizes meant that it was far too difficult to balance the height of each
-layer and still fill up to the very top of the box with dense books as much as
-possible. Nevertheless, it's worth an honourable mention.
+much better support for piling boxes in a disoriented fashion. However, books
+of wildly varying sizes meant that it was impossible to balance the height of
+each layer, and still fill up to the very top of the box with dense
+books. Nevertheless, it's worth an honourable mention.
