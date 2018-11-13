@@ -1,6 +1,6 @@
 ---
 layout     : post
-title      : "Starting out with Jekyll and GitHub Pages"
+title      : "Starting Out With Jekyll And GitHub Pages"
 tags       : []
 categories : [jekyll, github pages]
 excerpt    : Initial post about setting up this blog.

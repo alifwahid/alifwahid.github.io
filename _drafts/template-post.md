@@ -1,6 +1,6 @@
 ---
 layout     : post
-title      : "Template post"
+title      : "Template Post"
 tags       : []
 categories : []
 excerpt    : This is a template post.
