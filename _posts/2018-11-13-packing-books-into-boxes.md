@@ -11,7 +11,7 @@ excerpt    : My heuristic for packing books into boxes before shipping.
 {:toc}
 
 
-## The problem
+## Packing and shipping
 
 This past weekend I managed to pack about 600 books into 12 cardboard boxes.
 Each box had fixed dimensions of 30 cm x 40 cm x 43 cm, which equates to 0.052
@@ -28,7 +28,7 @@ that provide web APIs which compute near-optimal packing for shipping, storage,
 transportation, etc. I didn't use any available software to compute the packing
 per se. Instead, I decided to get some much needed physical exercise by
 ferrying heavy books across my room, and manually trying out a few heuristics
-that I had dreamt up earlier. Needless to say that I'm rather sore right now :P
+that I had dreamt up earlier. Needless to say that I'm rather sore right now.
 
 [binpackurl]: https://en.wikipedia.org/wiki/Bin_packing_problem
 
@@ -84,8 +84,8 @@ filling gaps between columns to allow certain amount of disoriented box piling.
 
 ## Piled higher and deeper
 
-With due deference to PhD Comics, here's how I managed to pile higher and
-deeper; the boxes I mean ;-)
+With due deference to PhD Comics, below is a picture of how I managed to pile
+higher and deeper.
 
 ![piled_boxes]({{ "/imgs/piled_boxes.jpg" | absolute_url }})
 
@@ -93,5 +93,18 @@ If you have keen eyes then you may be wondering how I managed to lift those
 second level of boxes off the ground, given my claim earlier that each one is
 "monstrously heavy". The answer is that I only lifted empty boxes before
 placing and packing them at their resting spot that you see in the picture
-above. It's the kind of algorithmic look ahead that is rather beneficial often
-times. Dig into greedy algorithms if you're interested in more examples.
+above. It's the kind of _algorithmic look ahead_ that is often beneficial.
+
+
+## Brickwork pattern
+
+One promising heuristic that I tried was the brickwork pattern (inspired by the
+wall you can glean at the right-hand edge of the picture above). It would work
+best with same sized books, preferably all hardcover, that can each stand on
+its spine and become perpendicular at alternating layers for interlocking
+strength of the whole structure (akin to a Jenga tower). It would also provide
+much better support for piling boxes in a disoriented fashion (i.e., not
+according to the marked "This Way Up" orientation). However, books of wildly
+varying sizes meant that it was far too difficult to balance the height of each
+layer and still fill up to the very top of the box with dense books as much as
+possible. Nevertheless, it's worth an honourable mention.
