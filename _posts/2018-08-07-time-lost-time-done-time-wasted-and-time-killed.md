@@ -129,7 +129,7 @@ much better narrative though, with deep intuitive appeal.
 There were many instances early in my career where my time was beyond my
 control. Consequently, I ended up observing the decisions made by others as to
 how I should spend my time. Their justifications were almost always in terms of
-overvaluing sunk costs and overestimating opportunity costs. This doesn't mean
+overvaluing sunk costs and underestimating opportunity costs. This doesn't mean
 that they were incompetent, rather that it's simply very difficult to be
 rational without being paralysed by the computational load of maximising
 utility for each decision under uncertainty, and that's after ignoring the fact
