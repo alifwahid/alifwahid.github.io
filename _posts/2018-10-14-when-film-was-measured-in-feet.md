@@ -17,10 +17,10 @@ sense to claim that "YouTube grows its total video footage by X terabytes every
 minute" (substitute an appropriate value for X). But I do see the advertising
 appeal of the former claim, however misleading it happens to be.
 
-Anyway, this line of thought was triggered by a phrase in the Forward of Jacob
+Anyway, this line of thought was triggered by a phrase in the Foreword of Jacob
 Bronowski's book *The Ascent of Man* (1973), which accompanied the eponymous
 BBC documentary. It also got me thinking about my favourite documentaries, all
-of which were shot in the 1970s when film was measured in feet. The first is
+of which were shot in the 1970s when film was measured in feet. The first was
 indeed [*The Ascent of Man*][bronowski], followed by [*Connections*][burke]
 (1978) and then [*Cosmos*][sagan] (which first aired in 1980, but was shot
 earlier in 1979). These three remain unequalled to this day, in my opinion. No
