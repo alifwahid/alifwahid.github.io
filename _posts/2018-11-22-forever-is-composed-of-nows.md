@@ -1,15 +1,15 @@
 ---
 layout     : post
 title      : "Forever Is Composed Of Nows"
-tags       : [simulations]
-categories : [statistics, science, poetry]
-excerpt    : Intuitions about simulations.
+tags       : [randomness, weather forecasting, solar system evolution]
+categories : [simulations, statistics, poetry]
+excerpt    : Dickinsonian intuitions about simulations.
 ---
 
 
-We tend to have a static conception of probability, something like a coin toss,
+We tend to have a static conception of randomness, something like a coin toss,
 or a dice roll, or even a lottery. Simulations encompass a dynamic conception
-of probability. So they necessarily deal with changes in probability over time
+of randomness. So they necessarily deal with changes in randomness over time
 and across space. The technical literature is rather terse for precisely
 defining and working with simulations in a wide array of fields. Definitely not
 the sort of thing that I enjoy blogging about. But delving into the intuitive
@@ -27,8 +27,8 @@ Dickinson clearly grasped incremental progress toward an asymptote, which is
 the essence of simulations as I conceptualise them. My favourite examples of
 simulations are actually far outside my own field. I've been curious about
 weather forecasting and solar system evolution for a long time. So in the rest
-of this post I'll try to illuminate my intuitions about simulations using these
-two fields.
+of this post I'll try to illuminate my Dickinsonian intuitions about
+simulations using those two fields.
 
 [emilypoem]: https://www.poetryfoundation.org/poems/52202/forever-is-composed-of-nows-690
 
@@ -39,15 +39,14 @@ following lines.
 
 1. Around 30% of the suburbs will experience rain at some point tomorrow, but
 there's no indication as to which ones.
-
 2. Around 30% of the meteorologists in the committee agree that it will rain at
 some point tomorrow, but there's no consensus as to when.
 
 Even though it's a simplified example, it nonetheless illustrates an important
-difference between static and dynamic views of probability. On the one hand, a
-static view of probability means that the two interpretations above are
-mutually exclusive: so it's either the first or the second, but not both. On
-the other hand, a dynamic view means that both are valid along with the added
+difference between static and dynamic views of randomness. On the one hand, a
+static view of randomness means that the two interpretations above are mutually
+exclusive: so it's either the first or the second, but not both. On the other
+hand, a dynamic view means that both are valid along with the added
 specification of *where* and *when* it's likely to rain.
 
 The dynamic view is indeed what modern [weather forecasting][weatherlink]
