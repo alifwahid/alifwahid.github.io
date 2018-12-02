@@ -7,7 +7,7 @@ excerpt    : When words will not stay still.
 ---
 
 
-I came across a sentence today that derailed my train of thought, and forced me
+I encountered a sentence today that derailed my train of thought, and forced me
 into an afternoon of quietly pondering the meanings of T. S. Eliot's poem
 [*Burnt Norton*][eliotpoem]. The culpable sentence is simply this: "The title
 is a concise, but sometimes imprecise, description of the rule". It's from the
