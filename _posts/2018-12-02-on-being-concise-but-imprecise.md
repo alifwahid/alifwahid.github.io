@@ -23,7 +23,7 @@ of poetry following the derailment today.
 [seilink]:   https://wiki.sei.cmu.edu/confluence/display/c/Introduction
 [eliotpoem]: http://www.davidgorman.com/4Quartets/1-norton.htm
 
-What that sentence provoked in me was the penetrating ideas that Eliot
+What that sentence provoked in me were the penetrating ideas that Eliot
 expressed in the final part of *Burnt Norton*. "Words move", wrote Eliot,
 "Words strain, / Crack and sometimes break, under the burden, / Under the
 tension, slip, slide, perish, / Decay with imprecision, will not stay in place,
