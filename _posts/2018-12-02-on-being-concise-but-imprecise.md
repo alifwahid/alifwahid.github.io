@@ -9,15 +9,15 @@ excerpt    : When words will not stay still.
 
 I encountered a sentence today that derailed my train of thought, and forced me
 into an afternoon of quietly pondering the meanings of T. S. Eliot's poem
-[*Burnt Norton*][eliotpoem]. The culpable sentence is simply this: "The title
+[*Burnt Norton*][eliotpoem]. That culpable sentence is simply this: "The title
 is a concise, but sometimes imprecise, description of the rule". It's from the
 second paragraph of the introduction to a coding standard for the C programming
-language, available [here][seilink]. In the realm of software development,
+language, available [here][seilink]. In the realm of software development
 coding standards (and the rules therein) are often the saviour of programmers,
 but they are also utterly banal rest of the time. This particular standard is
 closer to the former, I think, as it relates to the security and fortification
 of programs written in C. It goes without saying, at this point, that I have
-yet to fully read said coding standard, as I am still sojourning in the kingdom
+yet to fully read said coding standard, as I am still wandering the kingdom
 of poetry following the derailment today.
 
 [seilink]:   https://wiki.sei.cmu.edu/confluence/display/c/Introduction
@@ -40,10 +40,10 @@ opposites, but not too far off either. I suppose conciseness is synonymous with
 succinctness, or even compactness. So it's really about length (or lack
 thereof), more than the precision of meaning. Hence imprecision can coexist in
 harmony with concision. Poets appear to understand this better than the rest of
-us. Indeed, one may argue that that's exactly what every poem is.
+us. Indeed, one may argue that that's what a poem is: concise, but imprecise.
 
 It's curious that programming connects to poems, at least while mired aboard an
-elusive train of thought in my mind - easy, it is, to put a finger on;
+enigmatic train of thought in my mind - easy, it is, to put a finger on;
 difficult, it is, to express in words. Perhaps Yoda would say it more
 concisely, though not more precisely. As Eliot pointed out, words "will not
 stay still" when we are trying to put a finger on "the still point of the
@@ -60,6 +60,7 @@ and sentences. This, indeed, is the curious link between programming and
 poems. Steven Pinker's books on language explain this very well - most recently
 he had an excellent chapter about this in *The Sense of Style* (2014). The gist
 of it is that a network (or web) contains more information than its
-corresponding tree. Consequently, something must get lost when translating a
-web into a tree, when expressing a thought in words, or when compressing a bit
-to it. Concision begets imprecision, and it is forever thus.
+corresponding tree (technical term is a *spanning tree*). Consequently,
+something must get lost when translating a web into a tree, when expressing a
+thought in words, or when compressing a bit to it. Concision begets
+imprecision, and it is forever thus.
