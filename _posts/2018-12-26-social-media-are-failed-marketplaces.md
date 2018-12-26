@@ -11,14 +11,13 @@ excerpt    : Who gets what in social media - and why?
 {:toc}
 
 
-[Alvin E. Roth][rothhome] is an economics professor at Stanford, and shared the
-[2012 Nobel Memorial Prize in Economics][rothnobel]. He focuses on designing
-markets, which he regularly blogs about over [here][rothblog]. I recently read
-his brilliant book *Who Gets What - And Why?* (2015). It improved my
-understanding of the mechanisms at play in both successful and failed
-marketplaces. Subsequently, I've been pondering the central question that he
-poses, except in the context of social media: *who gets what in social media -
-and why?*
+[Alvin E. Roth][rothhome] is an economics professor at Stanford University, and
+shared the [2012 Nobel Memorial Prize in Economics][rothnobel]. He focuses on
+designing markets, which he regularly blogs about over [here][rothblog]. I
+recently read his brilliant book *Who Gets What - And Why?* (2015). It improved
+my understanding of the mechanisms at play in both successful and failed
+marketplaces. Since then, I've been pondering the topical question *who gets
+what in social media - and why?*
 
 [rothhome]:  https://web.stanford.edu/~alroth/
 [rothnobel]: https://www.nobelprize.org/prizes/economic-sciences/2012/roth/facts/
@@ -52,7 +51,7 @@ markets, such as share markets, and matching markets, such as clearinghouses
 for newly graduated doctors seeking residencies at hospitals. His focus is on
 matching markets, where it isn't enough for one to choose, one has to also be
 chosen in return. These markets comprise transactions based on two-sided
-matching preferences, not simply price alone. His major research contributions
+preference matching, not simply price alone. His major research contributions
 have been in such matching markets that he helped design. For example, he
 worked with surgeons in America to setup kidney exchanges that saved thousands
 of lives, and continue to save lives today.
@@ -72,7 +71,7 @@ Roth doesn't take sides on the issue of whether repugnant transactions ought to
 be allowed or not. Instead, he does an excellent job of articulating and
 explaining the choices that a society has, in the hope that better decisions
 will be made. I'm finding it very instructive to use his framing of
-marketplaces and their designs for better understanding a number of topical
+marketplaces and their designs for better understanding a number of current
 phenomena. The privacy violations by Facebook during 2018 is one such
 phenomenon that has been on my mind lately. But before focusing on the failures
 of Facebook (and social media by proxy), the pertinent question is whether or
@@ -85,32 +84,33 @@ I definitely think that social media are marketplaces, because they bring
 together users and advertisers. The buzzword *platform* is now ubiquitous for
 describing social media, but I think it's imperative to use the more accurate
 (and honest) term *marketplace*. A platform like Facebook does nothing more
-than mach advertisers to users - it's not an oversimplification; rather, it's
+than mach users to advertisers - it's not an oversimplification; in fact, it's
 the exact truth. So marketplace is the word that I'll use from now on.
 
 The profitability of Facebook indicates that it has succeeded in doing the
 three things that Roth pointed out (which I quoted above). There's definitely
-thickness, in terms of a large number of users and advertisers. Facebook has
+thickness, given the large number of users and advertisers. Facebook has
 convinced users to honestly divulge a huge amount of private and sensitive
 information about themselves, so that highly targeted adverts can be displayed
 to each user. The speed and scale of Facebook's infrastructure have clearly
 removed any kind of congestion from the marketplace, at least as far as
-advertisers are concerned. I'll also include LinkedIn and Twitter as same sort
-of marketplaces, even though they focus on different aspects of each user.
+advertisers are concerned. I'll include LinkedIn and Twitter as same sort of
+marketplaces, even though they focus on different aspects of each user.
 
 
 ## Failures of social media
 
 Now, here's an interesting question: if social media marketplaces are so highly
-profitable, they must surely be successful? Not necessarily. I think companies
-like Facebook have *coerced* users into honestly divulging their private
-information in exchange for free storage and messaging. Most users have no idea
-that it's the advertisers in these marketplaces who get to choose exactly what
-they want. So it only appears as though social media marketplaces are *safe*
-for both users and advertisers, in terms of the definition provided by Roth
-earlier. However, I think we learned during 2018 that social media marketplaces
-are evidently *unsafe* for users, because of the enormous violations of privacy
-and trust perpetrated by the middlemen involved (e.g., Facebook).
+profitable, they must surely be functioning beneficially for all involved? Not
+necessarily. I think companies like Facebook have *coerced* users into honestly
+divulging their private information in exchange for free storage and
+communication services. Most users have no idea that it's the advertisers in
+these marketplaces who get to choose exactly what they want. So it only appears
+as though social media marketplaces are *safe* for both users and advertisers,
+in terms of the definition provided by Roth earlier. Unfortunately we learned
+during 2018 that social media marketplaces are evidently *unsafe* for users,
+because of the enormous violations of privacy and trust perpetrated by the
+middlemen involved (e.g., Facebook).
 
 Unsafe marketplaces can lead to a counter-intuitive form of congestion that
 Roth discusses in his book and papers. In the context of social media, I think
@@ -124,14 +124,13 @@ repetition of a truth can induce people to become desensitised and accept it as
 a lie instead (see Daniel Gilbert's 2018 paper about prevalence-induced concept
 change). Subsequently, if it becomes a norm that every piece of fact is taken
 to be a lie by default, any truth will be so much harder to acknowledge;
-thereby leading to the kind of polarisation we are witnessing nowadays in
-social media.
+thereby leading to uniform polarisation and distrust in social media.
 
 
 ## Designing better social media
 
 Admittedly, I'm speculating above regarding what caused social media to become
-failed marketplaces. However, the privacy violations are indisputable, and must
+failed marketplaces. However, the privacy violations are undisputed, and must
 be corrected. But I think the current spate of suggestions about governments
 regulating Facebook will end up making a bad situation much worse. The solution
 that seems most promising to me is the art of designing markets. Applying the
