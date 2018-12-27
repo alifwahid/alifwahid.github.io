@@ -12,7 +12,7 @@ into an afternoon of quietly pondering the meanings of T. S. Eliot's poem
 [*Burnt Norton*][eliotpoem]. That culpable sentence is simply this: "The title
 is a concise, but sometimes imprecise, description of the rule". It's from the
 second paragraph of the introduction to a coding standard for the C programming
-language, available [here][seilink]. In the realm of software development
+language, available [here][seilink]. In the realm of software development,
 coding standards (and the rules therein) are often the saviour of programmers,
 but they are also utterly banal rest of the time. This particular standard is
 closer to the former, I think, as it relates to the security and fortification

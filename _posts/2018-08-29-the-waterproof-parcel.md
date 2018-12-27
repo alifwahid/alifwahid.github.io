@@ -90,7 +90,7 @@ appear as you traverse from high to low levels. Nowhere is this more
 widespread, and better understood, than software development. The entire
 practice of writing code is an exercise in *deliberate ignorance*, which is
 what abstracting really is. In fact, abstracting is a fine art in the land of
-software development, whereby notions of beauty and elegance are directly
+software development, where notions of beauty and elegance are directly
 associated with ignoring the right amount of detail. Think of your favourite
 Impressionist painting for an analogy.
 

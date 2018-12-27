@@ -46,11 +46,11 @@ markets need to do at least the following three things for proper functioning.
 
 [rothpaper]: https://hbr.org/2007/10/the-art-of-designing-markets
 
-In addition, Roth makes a clear distinction between the typical commodity
-markets, such as share markets, and matching markets, such as clearinghouses
-for newly graduated doctors seeking residencies at hospitals. His focus is on
-matching markets, where it isn't enough for one to choose, one has to also be
-chosen in return. These markets comprise transactions based on two-sided
+In addition, Roth makes a clear distinction between typical *commodity markets*
+(such as share markets) and *matching markets* (such as clearinghouses for
+newly graduated doctors seeking residencies at hospitals). His focus is on
+matching markets, where it isn't enough for you to choose alone, you also have
+to be chosen in return. These markets comprise transactions based on two-sided
 preference matching, not simply price alone. His major research contributions
 have been in such matching markets that he helped design. For example, he
 worked with surgeons in America to setup kidney exchanges that saved thousands
@@ -60,12 +60,12 @@ One other thing Roth has popularised is that *repugnance* is a constraint in
 such matching markets. Consider the example of a kidney exchange based on
 voluntary participation, as it is illegal to buy or sell human organs in nearly
 every country. Hence any kind of organ exchange is strictly treated as a mutual
-gift. However, the prohibition of putting a price on human organs is not
-something that would automatically harm those who are not involved in the
-actual transaction, although there are plenty of future possibilities of harm
-that Roth discusses in detail. So repugnance is attached to a transaction that
-some people would like to engage in, but which is forbidden by everyone else
-even if it harms no one (at least not immediately).
+gift. However, putting a price on human organs is not something that would
+automatically harm those who are not involved in the actual transaction,
+although there are plenty of future possibilities for harm that Roth discusses
+in detail. So repugnance is attached to a transaction that some people would
+like to engage in, but which is forbidden by everyone else even if it harms no
+one (at least not immediately).
 
 Roth doesn't take sides on the issue of whether repugnant transactions ought to
 be allowed or not. Instead, he does an excellent job of articulating and
@@ -90,10 +90,10 @@ the exact truth. So marketplace is the word that I'll use from now on.
 The profitability of Facebook indicates that it has succeeded in doing the
 three things that Roth pointed out (which I quoted above). There's definitely
 thickness, given the large number of users and advertisers. Facebook has
-convinced users to honestly divulge a huge amount of private and sensitive
-information about themselves, so that highly targeted adverts can be displayed
-to each user. The speed and scale of Facebook's infrastructure have clearly
-removed any kind of congestion from the marketplace, at least as far as
+convinced users to honestly divulge a huge amount of confidential and sensitive
+information about themselves, so much so that highly targeted adverts can be
+displayed to each user. The speed and scale of Facebook's infrastructure have
+clearly removed almost all congestion from the marketplace, at least as far as
 advertisers are concerned. I'll include LinkedIn and Twitter as same sort of
 marketplaces, even though they focus on different aspects of each user.
 
@@ -103,14 +103,14 @@ marketplaces, even though they focus on different aspects of each user.
 Now, here's an interesting question: if social media marketplaces are so highly
 profitable, they must surely be functioning beneficially for all involved? Not
 necessarily. I think companies like Facebook have *coerced* users into honestly
-divulging their private information in exchange for free storage and
+divulging their private information in exchange for free cloud storage and free
 communication services. Most users have no idea that it's the advertisers in
-these marketplaces who get to choose exactly what they want. So it only appears
-as though social media marketplaces are *safe* for both users and advertisers,
-in terms of the definition provided by Roth earlier. Unfortunately we learned
-during 2018 that social media marketplaces are evidently *unsafe* for users,
-because of the enormous violations of privacy and trust perpetrated by the
-middlemen involved (e.g., Facebook).
+these marketplaces who get to choose exactly what they want. So it
+superficially appears as though social media marketplaces are *safe* for both
+users and advertisers, in terms of the definition provided by Roth
+earlier. Shockingly, we learned during 2018 that social media marketplaces are
+evidently *unsafe* for users, because of the enormous violations of privacy and
+trust perpetrated by Facebook and co.
 
 Unsafe marketplaces can lead to a counter-intuitive form of congestion that
 Roth discusses in his book and papers. In the context of social media, I think
@@ -121,10 +121,11 @@ marketplace, then participants have to carefully strategise about their
 choices, presuming that they are capable of being rational. However, cognitive
 biases in humans mean that we end up making systematic errors. For instance,
 repetition of a truth can induce people to become desensitised and accept it as
-a lie instead (see Daniel Gilbert's 2018 paper about prevalence-induced concept
-change). Subsequently, if it becomes a norm that every piece of fact is taken
-to be a lie by default, any truth will be so much harder to acknowledge;
-thereby leading to uniform polarisation and distrust in social media.
+a lie instead (see Daniel Gilbert and colleagues' 2018 paper about
+"prevalence-induced concept change"). Subsequently, if it becomes a norm that
+every piece of fact is taken to be a lie by default, any truth will be so much
+harder to acknowledge; thereby leading to uniform polarisation and distrust in
+social media.
 
 
 ## Designing better social media
