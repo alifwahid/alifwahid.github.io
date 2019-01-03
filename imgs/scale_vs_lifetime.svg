@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="53cm" height="34cm" viewBox="-161 157 1043 669" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="220" y1="180" x2="853.106" y2="654.829"/>
+    <polygon style="fill: #000000" points="859.106,659.329 848.106,657.329 853.106,654.829 854.106,649.329 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="859.106,659.329 848.106,657.329 853.106,654.829 854.106,649.329 "/>
+  </g>
+  <text font-size="22.5774" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="480" y="821">
+    <tspan x="480" y="821">Typical Lifetime (years)</tspan>
+  </text>
+  <text font-size="22.5774" style="fill: #000000;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="40" y="453.385">
+    <tspan x="40" y="453.385">Production Scale</tspan>
+    <tspan x="40" y="481.607">(# of units / year)</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="60" y1="780" x2="869" y2="780"/>
+    <polygon style="fill: #000000" points="869,785 879,780 869,775 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="869,785 879,780 869,775 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="60" y1="780" x2="60" y2="171"/>
+    <polygon style="fill: #000000" points="65,171 60,161 55,171 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="65,171 60,161 55,171 "/>
+  </g>
+  <text font-size="16.9331" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="180" y="240">
+    <tspan x="180" y="240">Phones</tspan>
+  </text>
+  <text font-size="16.9331" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="260" y="300">
+    <tspan x="260" y="300">Laptops</tspan>
+  </text>
+  <text font-size="16.9331" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="440" y="440">
+    <tspan x="440" y="440">Cars</tspan>
+  </text>
+  <text font-size="16.9331" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="540" y="520">
+    <tspan x="540" y="520">Buses</tspan>
+  </text>
+  <text font-size="16.9331" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="660" y="600">
+    <tspan x="660" y="600">Planes</tspan>
+  </text>
+  <text font-size="16.9331" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="780" y="700">
+    <tspan x="780" y="700">Ships</tspan>
+  </text>
+  <text font-size="16.9331" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="380">
+    <tspan x="360" y="380">Fridges</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="780" cy="600" rx="40" ry="40"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="780" cy="600" rx="40" ry="40"/>
+    <text font-size="16.9331" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="780" y="605.167">
+      <tspan x="780" y="605.167">costlier</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="720" y1="740" x2="86.8944" y2="265.171"/>
+    <polygon style="fill: #000000" points="80.8944,260.671 91.8944,262.671 86.8944,265.171 85.8944,270.671 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="80.8944,260.671 91.8944,262.671 86.8944,265.171 85.8944,270.671 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="160" cy="320" rx="40" ry="40"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="160" cy="320" rx="40" ry="40"/>
+    <text font-size="16.9331" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="160" y="325.167">
+      <tspan x="160" y="325.167">smaller</tspan>
+    </text>
+  </g>
+</svg>
