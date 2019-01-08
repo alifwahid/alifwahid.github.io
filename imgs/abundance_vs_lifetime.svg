@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="49cm" height="34cm" viewBox="-88 157 970 669" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="220" y1="180" x2="853.106" y2="654.829"/>
+    <polygon style="fill: #000000" points="859.106,659.329 848.106,657.329 853.106,654.829 854.106,649.329 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="859.106,659.329 848.106,657.329 853.106,654.829 854.106,649.329 "/>
+  </g>
+  <text font-size="22.5778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="460" y="821">
+    <tspan x="460" y="821">Lifetime</tspan>
+  </text>
+  <text font-size="22.5778" style="fill: #000000;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="40" y="467.496">
+    <tspan x="40" y="467.496">Abundance</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="60" y1="780" x2="869" y2="780"/>
+    <polygon style="fill: #000000" points="869,785 879,780 869,775 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="869,785 879,780 869,775 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="60" y1="780" x2="60" y2="171"/>
+    <polygon style="fill: #000000" points="65,171 60,161 55,171 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="65,171 60,161 55,171 "/>
+  </g>
+  <text font-size="19.7556" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="140" y="220">
+    <tspan x="140" y="220">Phones</tspan>
+  </text>
+  <text font-size="19.7556" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="260" y="300">
+    <tspan x="260" y="300">Laptops</tspan>
+  </text>
+  <text font-size="19.7556" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="460" y="460">
+    <tspan x="460" y="460">Cars</tspan>
+  </text>
+  <text font-size="19.7556" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="560" y="540">
+    <tspan x="560" y="540">Buses</tspan>
+  </text>
+  <text font-size="19.7556" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="680" y="620">
+    <tspan x="680" y="620">Planes</tspan>
+  </text>
+  <text font-size="19.7556" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="780" y="700">
+    <tspan x="780" y="700">Ships</tspan>
+  </text>
+  <text font-size="19.7556" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="380">
+    <tspan x="360" y="380">Fridges</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="720" y1="740" x2="86.8944" y2="265.171"/>
+    <polygon style="fill: #000000" points="80.8944,260.671 91.8944,262.671 86.8944,265.171 85.8944,270.671 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="80.8944,260.671 91.8944,262.671 86.8944,265.171 85.8944,270.671 "/>
+  </g>
+  <text font-size="19.7556" style="fill: #000000;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="860" y="518.35">
+    <tspan x="860" y="518.35">Increasing cost,</tspan>
+    <tspan x="860" y="543.044">size, need for</tspan>
+    <tspan x="860" y="567.739">repairs and</tspan>
+    <tspan x="860" y="592.433">safety</tspan>
+  </text>
+  <text font-size="19.7556" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="358.925">
+    <tspan x="80" y="358.925">Easier to</tspan>
+    <tspan x="80" y="383.619">replace and</tspan>
+    <tspan x="80" y="408.314">harder to repair </tspan>
+  </text>
+</svg>
