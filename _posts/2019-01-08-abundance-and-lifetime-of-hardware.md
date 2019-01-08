@@ -17,7 +17,7 @@ some common things. I've left out numbers because I'm only trying to create an
 approximate ranking here. If you dig up the relevant data for these things,
 then you may very well poke gaping holes in my drawing. Nevertheless, I reckon
 the rough order that I've depicted below is solid enough for the discussion
-that follows.
+which follows.
 
 ![abun_vs_life_1]({{ "/imgs/abundance_vs_lifetime.svg" | absolute_url }})
 
@@ -27,8 +27,8 @@ negative correlation between abundance and lifetime. But there's likely to be a
 power law relationship between the two axes on a log-log plot, even though I
 can't demonstrate that in the absence of numbers. In any case, the key
 information in the figure above is the presence of an equilibrium that's
-remarkably stable - *things that are highly abundant have short lifetimes and
-things that endure are rather rare*.
+remarkably stable - *things that are abundant have short lifetimes and things
+that endure are rather rare*.
 
 What keeps this equilibrium going is the cost of *repair* versus the cost of
 *replacement*. As I have noted on the diagram, enduring things are expensive to
@@ -70,5 +70,5 @@ negative correlation between abundance and lifetime, and perhaps also a
 consequence of the increasing size as you traverse the diagonal downward from
 left to right. Could we ever see an invention that is concurrently small,
 abundant and enduring? I don't think so, given the fact that optimising across
-the many dimensions simultaneously makes our odds of success vanishingly
+the many dimensions simultaneously makes our probability of success vanishingly
 small.
