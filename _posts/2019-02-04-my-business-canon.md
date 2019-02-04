@@ -71,7 +71,7 @@ initially humiliating. The implication is that starting small and evolving
 endlessly is the key to not just surviving, but thriving as well.
 
 Ries arrives at this truth from an engineering perspective of building
-products. He proposes the build-measure-learn feedback loop in a startup for
+products. He proposes the *build-measure-learn* feedback loop in a startup for
 navigating an emerging or untapped market. Indeed, even for discovering a new
 market! The build phase is a *minimum viable product* that enables measuring
 relevant new metrics, which subsequently permit learning and either pivoting
@@ -199,8 +199,8 @@ underlying higher cost structures. Then, when disruptive innovators undercut
 and precipitously subsume the previously high-end markets, these well managed
 companies almost always become extinct.
 
-Ries provides a very insightful method of countering the tide of moving
-upmarket and specialising until extinction. He calls it pivot or persevere
+Ries provides an insightful method of countering the tide of moving upmarket
+and specialising until extinction. He calls it *pivot or persevere*
 milestones. The basic idea is that at the end of each iteration through his
 build-measure-learn feedback loop, a startup has to decide whether it is going
 to persevere with current vision/strategy or pivot to something new and
