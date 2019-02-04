@@ -12,10 +12,10 @@ excerpt    : Books that have shaped my thinking about business.
 
 I've previously written about [my uncertainty canon][ucanon], as in books that
 have shaped my thinking on the topic of uncertainty. That was a list of
-psychology books, because I found that subject to provide the best insights
-regarding uncertainty (second ranked subject is statistics, just FYI). A
-straightforward next step is to think about the uncertain world of business,
-investment, strategy, and so on. Unfortunately, I managed to fool myself into
+psychology books, because I find that subject to provide the best insights
+regarding uncertainty (second ranked subject is statistics). A straightforward
+next step is to think about the uncertain world of business, investment,
+strategy, markets, and so on. Unfortunately, I managed to fool myself into
 reading too many books from that humongous genre called "business", the vast
 majority of which was useless at best, and utterly untrue at worst.
 Nevertheless, I've settled on three books that taught me a trinity of truths. I
@@ -29,14 +29,14 @@ The first book is from 1997, titled *The Innovator's Dilemma*. It's written by
 Clayton Christensen, who is a legendary scholar of management theory and
 business history from Harvard. The second book is titled *The Lean Startup*,
 written by Eric Ries and published in 2011. Ries is an enlightened engineer who
-managed to firmly embed the scientific method as foundation bedrock into the
-unscientific isle of startups, and subsequently rediscovered anew the trinity
-of truths, which were previously stated by Christensen. The final book in my
-canon is *Zero to One*, published in 2014 and written by Peter Thiel with help
-from Blake Masters, who bring the utensils of libertarian philosophy to the
-table, and reach the same trinity of truths as Christensen and Ries, via the
-contrarian pathway of asking enduring questions. So, the remainder of this post
-is a paraphrasing of the three things that I've learned from these books.
+managed to firmly embed the scientific method as bedrock foundation into the
+unscientific isle of startups, and subsequently re-stated anew the same trinity
+of truths. The final book in my canon is *Zero to One*, published in 2014 and
+written by Peter Thiel with help from Blake Masters, who bring the utensils of
+libertarian philosophy to the table, and reach the same trinity of truths as
+Christensen and Ries, via the contrarian pathway of asking enduring
+questions. So, the remainder of this post is a paraphrasing of the trinity that
+I've discovered in these books.
 
 
 ## Domination begins with humiliation
@@ -75,14 +75,14 @@ products. He proposes the build-measure-learn feedback loop in a lean startup
 for navigating an emerging or untapped market. Indeed, even for discovering a
 new market. The build phase is a *minimum viable product* that enables
 measuring relevant new metrics, which subsequently permit learning and either
-pivoting or persevering with the startup's vision and strategy. The overt
+pivoting from or persevering with the startup's vision and strategy. His overt
 emphasis is on small steps, not giant leaps. The minimum viable product is all
 about testing assumptions and feasibility, which is a good way of rephrasing
-the age old engineering advice of prototyping first and proving a concept in
-small scale. It's rather shocking how many startups waste money in the 21st
-century just because they can, sigh. Ries ends the book with a rallying cry to
-"waste not". I certainly agree. And the fact that humility is a viable pathway
-to future invincibility is underrated as a strategy, particularly in
+the old engineering advice of prototyping first and proving a concept in small
+scale. It's rather shocking how many startups waste money in the 21st century
+just because they can, sigh. Ries ends the book with a rallying cry to "waste
+not". I certainly agree. And the fact that humility is a viable pathway to
+future invincibility is underrated as a strategy, particularly in
 marketing. The macho approach of most startups is to conquer unclaimed markets
 and forcefully colonise them. These organisations sacrifice hordes of cash in
 the process, along with the time and energy of their employees. This is a
@@ -148,11 +148,11 @@ to exploit. Of course that would change *after* one has learned by taking small
 risks, so that all the conventional wisdom of good management and accounting
 would become applicable. His point is that it's imperative to understand that
 the effect comes after its cause - thus small risks lead to learning about the
-cause first.
+causes first.
 
-Ries borrows from the scientific vocabulary to state this truth in more
+Ries borrows from the scientific vocabulary to re-state this truth in more
 familiar terms. For him, decision making in a startup environment is akin to
-hypothesis testing in science. The point is to state assumptions clearly such
+hypothesis testing in science. The challenge is to state assumptions clearly so
 that they can be falsified with experiments. If assumptions withstand these
 tests then they can be treated as reliable foundation for further decision
 making in a repeat of the scientific method. This is really hard for an
@@ -167,20 +167,20 @@ risks in order to learn a great deal about the world.
 
 What value is there in learning from taking risks? It's a question that hints
 at the possibility of a market that actually attaches some kind of tangible
-(not necessarily monetary) value to learning by way of risking. Thiel's book
-arrives at this point along a curious tangent. He ponders the value of secrecy
-in terms of knowing something that others do not, as yet, know. Indeed, as he
-argues, the point of a startup is to capitalise on something secret. The nuance
-here is that "secret" means unknown to the rest of humanity but fully known to
-the startup's founder(s) - which basically makes it no secret at all! The way I
-see it, he is articulating a long-winded version of the goal to learn by taking
-risks. He's banking on the fact that the founder(s) of a startup previously
-learned something that can be exploited. But the learning comes first,
-exploitation second. As a result, the value of learning lies in how the
+(though not necessarily monetary) value to learning by way of risking. Thiel's
+book arrives at this point along a curious tangent. He ponders the value of
+secrecy in terms of knowing something that others do not, as yet, know. Indeed,
+as he argues, the point of a startup is to capitalise on something secret. The
+nuance here is that "secret" means unknown to the rest of humanity but fully
+known to the startup's founder(s) - which basically makes it no secret at all!
+The way I see it, he is articulating a long-winded version of the goal to learn
+by taking risks. He's banking on the fact that the founder(s) of a startup
+previously learned something that can be exploited. But the learning comes
+first, exploitation second. As a result, the value of learning lies in how the
 resulting knowledge can be exploited, whether for capital gains (as in a
 startup), or for social gains (as in a charity), or for epistemological gains
 (as in science). In that sense, I can't fault Thiel's reasoning and circuitous
-arrival at this truth.
+arrival at this truth, i.e., learning comes from risking.
 
 
 ## Strength also defines weakness
@@ -194,7 +194,7 @@ often they went bankrupt. He explains in detail the various mechanisms at play
 that bring about such a situation over time. The main point is that companies
 tend to specialise by moving towards the high-end of their favoured
 markets. This leads to shedding various in-house capabilities that don't suit
-such a migration upmarket. Invariably when companies find themselves lacking
+such a migration upmarket. When companies invariably find themselves lacking
 the requisite expertise, they struggle to fill it quickly. Thus when disruptive
 innovations precipitously subsume their previously favoured markets, well
 managed companies almost always go extinct.
@@ -203,9 +203,9 @@ Ries provides a very insightful method of countering the tide of moving
 upmarket and specialising until extinction. He calls it pivot or persevere
 milestones. The basic idea is that at the end of each iteration through his
 build-measure-learn feedback loop, a startup has to decide whether it is going
-ot persevere with current vision/strategy or pivot to something new and
+to persevere with current vision/strategy or pivot to something new and
 different. So he's putting this stark choice at the centre of the picture for a
-startup, because the lesson from business history which Christensen uncovered
+startup, because the lesson from business history, which Christensen uncovered,
 is that pivoting is almost always overlooked by established incumbents in a
 market before going bust. Pivoting, as Ries articulates in the book, is a very
 difficult thing to pull off initially for all sorts of cultural and
@@ -213,21 +213,22 @@ psychological reasons. But it can be learned and he shares many stories in the
 book where startups and organisations managed to successfully pivot many
 times. The essential truth that they all acknowledged was the fact that they
 learned to define their weaknesses by their strengths. It's the clarity in
-mapping out ones capabilities and disabilities that really helps to overcome
+mapping out ones capabilities *and* disabilities that really helps to overcome
 all manner of biases against evidence-based decision making.
 
-Thiel asks a foresighted question - can the current market position be defended
-a decade or two from now? As hard as the future is to guesstimate, it's still
-worth pondering his question because it necessarily focuses on the weaknesses
-that everyone is apt to overlook. What he's getting at by this question is the
-same pattern that Christensen observed in various industries, and it is the
-same argument that Ries is making in favour of quickly pivoting when the
-evidence points towards extinction. Furthermore, Thiel extends this with an
-insight about the valuation of a startup - vast bulk of the income of a startup
-is expected/assumed to occur many years from now. Therefore, any sound strategy
-ought to worry a great deal about whether or not the current market will
-provably disappear in the future. For instance, any business built on
-exploiting very limited physical resources will suffer when those resources are
-depleted. So it doesn't really make sense to invest in those businesses for the
+And finally to round out this truth, Thiel asks a foresighted question - can
+the current market position be defended a decade or two from now? As hard as
+the future is to guesstimate, it's still worth pondering his question because
+it necessarily focuses on the weaknesses that everyone is apt to overlook. What
+he's getting at by this question is the same pattern that Christensen observed
+in various industries, and it is the same argument that Ries is making in
+favour of quickly pivoting when the evidence points towards
+extinction. Furthermore, Thiel extends this with an insight about the valuation
+of a startup - vast bulk of the income of a startup is expected/assumed to
+occur many years from now. Therefore, any sound strategy ought to worry a great
+deal about whether or not the current market will provably disappear in the
+future. For instance, any business built on exploiting very limited earthly
+resources will suffer when those resources are depleted - just a matter of
+when, not if. So it doesn't make sense to invest in those businesses for the
 longer term. Consequently, the short-term strengths of such businesses also
 define their long-term weaknesses.
