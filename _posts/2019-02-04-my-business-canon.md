@@ -192,12 +192,12 @@ best, which is that the capabilities of an organisation also define its
 things, which they had progressively learned over time. So when they found
 themselves needing to be good at very *new* things altogether, they necessarily
 struggled, and most often they went bankrupt. He discusses various dynamics at
-play that bring about such a situation. The main point is that companies tend
+play, which bring about such an outcome. The main point is that companies tend
 to specialise by moving towards the high-end of their favoured markets, which
 necessarily includes focusing on higher profit margins and accepting the
 underlying higher cost structures. Then, when disruptive innovators undercut
-and precipitously subsume the previously high-end markets, these well managed
-companies almost always become extinct.
+and subsume the previously high-end markets, these well managed companies
+almost always become extinct.
 
 Ries provides an insightful method of countering the tide of moving upmarket
 and specialising until extinction. He calls it *pivot or persevere*
