@@ -160,10 +160,10 @@ were easy then we would all be brilliant scientists).  So much of our
 psychology has evolved to be totally unscientific that it takes a lot of
 training, practice, honesty and integrity to obtain a scientific mindset. What
 Ries says in his book is again echoing Christensen regarding the fact that
-learning is the goal of risk taking. In fact, I see it as a causal relationship
-- learning comes from risking. It's an instructive way of looking at science as
-well, since scientists are really taking fundamental risks in order to learn a
-great deal about the world.
+learning is the goal of risk taking. In fact, I see it as a causal
+relationship, in that *learning comes from risking*. It's an instructive way of
+looking at science as well, since scientists are really taking fundamental
+risks in order to learn a great deal about the world.
 
 What value is there in learning from taking risks? It's a question that hints
 at the possibility of a market which actually attaches some kind of tangible
