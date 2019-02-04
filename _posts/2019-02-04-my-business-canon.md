@@ -160,10 +160,10 @@ were easy then we would all be brilliant scientists).  So much of our
 psychology has evolved to be totally unscientific that it takes a lot of
 training, practice, honesty and integrity to obtain a scientific mindset. What
 Ries says in his book is again echoing Christensen regarding the fact that
-learning is the goal of risk taking. In fact, I see at it as a causal
-relationship - *learning comes from risking*. It's an instructive way of
-looking at science as well, since scientists are really taking fundamental
-risks in order to learn a great deal about the world.
+learning is the goal of risk taking. In fact, I see it as a causal relationship
+- *learning comes from risking*. It's an instructive way of looking at science
+as well, since scientists are really taking fundamental risks in order to learn
+a great deal about the world.
 
 What value is there in learning from taking risks? It's a question that hints
 at the possibility of a market which actually attaches some kind of tangible
@@ -174,7 +174,7 @@ as he argues, the point of a startup is to capitalise on something secret. The
 nuance here is that "secret" means merely unnoticed by the rest of humanity but
 fully noticed by the startup's founder(s) - which basically makes it no secret
 at all!  The way I see it, he is articulating a long-winded version of the goal
-to learn by taking risks. He's implicitly building on the fact that the
+to learn by taking risks. He's inherently taking for granted the fact that the
 founder(s) of a startup previously learned something that could be
 exploited. But the learning comes first, exploitation second. As a result, the
 value of learning lies in how the resulting knowledge can be exploited, whether
@@ -186,18 +186,18 @@ risking.
 
 ## Strength also defines weakness
 
-The last of the trinity is a truth about *asymmetry*. Christensen says it best,
-in that the capabilities of an organisation also define its *disabilities*. He
-noticed that well managed companies were good at very few things, which they
-had progressively learned over time. So when they found themselves needing to
-be good at very *new* things altogether, they necessarily struggled, and most
-often they went bankrupt. He discusses various dynamics at play that bring
-about such a situation. The main point is that companies tend to specialise by
-moving towards the high-end of their favoured markets, which necessarily
-includes focusing on higher profit margins and accepting the associated higher
-cost structures. Then when disruptive innovations precipitously subsume their
-previously high-end markets by undercutting, these well managed companies
-almost always become extinct.
+The last of the trinity is a truth about *asymmetry*. Christensen explains it
+best, which is that the capabilities of an organisation also define its
+*disabilities*. He noticed that well managed companies were good at very few
+things, which they had progressively learned over time. So when they found
+themselves needing to be good at very *new* things altogether, they necessarily
+struggled, and most often they went bankrupt. He discusses various dynamics at
+play that bring about such a situation. The main point is that companies tend
+to specialise by moving towards the high-end of their favoured markets, which
+necessarily includes focusing on higher profit margins and accepting the
+underlying higher cost structures. Then, when disruptive innovators undercut
+and precipitously subsume the previously high-end markets, these well managed
+companies almost always become extinct.
 
 Ries provides a very insightful method of countering the tide of moving
 upmarket and specialising until extinction. He calls it pivot or persevere
