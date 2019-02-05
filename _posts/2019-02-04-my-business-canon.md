@@ -129,16 +129,17 @@ absolutely no plug-n-play formula for this challenge. Therefore, one has to
 take risks and learn from the outcomes, so as to carve out a brand new
 path. It's a rather obvious thing to say, not really profound at all. But this
 truth holds a profound implication when it comes to risk-taking in the real
-world - uncertainty is unknowable, the best we can do is to learn by taking
-small risks (so that we don't go extinct), and keep repeating the process at an
-accelerating rate towards our growth target. All three authors hammer away at
-this notion of uncertainty and learning from their respective vantage points.
+world - uncertainty means unknown. Thus the best we can do is to learn by
+taking small risks (so that we don't go extinct), and keep repeating the
+process at an accelerating rate towards our growth target. All three authors
+hammer away at this notion of uncertainty and learning from their respective
+vantage points.
 
 Christensen makes the case that well managed companies have a good chance to
 cope with disruptive innovations by creating a very different culture of
 learning, where the focus is on experimentation and nimble decision making at a
 small scale. It requires acknowledging that a new or emerging market is
-unknowable via the traditional methods of focus groups and market
+unknowable using the traditional methods of focus groups and market
 research. Those tricks work beautifully for existing, well defined, and highly
 exploitable markets. They do not work for a market that is invisible, or merely
 emerging on the horizon. The major consequence of this is that conventional
