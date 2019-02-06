@@ -68,7 +68,7 @@ right-hand corner of the diagram. In other words, *nothing can be abundant and
 enduring at the same time*. This is a straightforward implication of the
 negative correlation between abundance and lifetime, and perhaps also a
 consequence of the increasing size as you traverse the diagonal downward from
-left to right. Could we ever see an invention that is concurrently small,
-abundant and enduring? I don't think so, given the fact that optimising across
-the many dimensions simultaneously makes our probability of success vanishingly
-small.
+left to right. Could we ever see a new hardware design that's concurrently
+small, abundant, and enduring? I don't think so, given the fact that optimising
+simultaneously across these many dimensions makes our probability of success
+vanishingly small.
