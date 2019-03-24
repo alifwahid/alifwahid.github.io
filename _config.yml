@@ -7,7 +7,7 @@ description: Personal blog
 baseurl: ""
 url: "https://alifwahid.com"
 
-twitter_username: awah005
+#twitter_username:
 github_username:  alifwahid
 
 # Build settings
