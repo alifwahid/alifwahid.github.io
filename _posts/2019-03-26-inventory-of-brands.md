@@ -15,7 +15,7 @@ explaining. What follows is a stocktake, of sorts, starting with the following
 coverage table for the brands that I use.
 
 |---
-|| On Android | On Linux
+|| On Android | On Ubuntu
 |:-|:-:|:-:|
 | **Search engine** | DuckDuckGo | DuckDuckGo
 | **Web browser** | DuckDuckGo | Google
@@ -44,9 +44,9 @@ Well, then how come Google is dominating my usage above? Sadly, that's my only
 regret at present: that I cannot break free of Google so easily :( But I'm
 definitely taking incremental steps in that direction. I've been using
 DuckDuckGo for nearly a year on my Android devices (phone and tablet) and on my
-Linux machines (laptop and desktop). It's a fine search engine that, ironically
-enough, reminds me of the early/ethical days of Google. I've noticed no
-difference in the quality of results between DuckDuckGo and Google over the
+Ubuntu machines (laptop and desktop). It's a fine search engine that,
+ironically enough, reminds me of the early/ethical days of Google. I've noticed
+no difference in the quality of results between DuckDuckGo and Google over the
 past year whenever I ran calibration tests. But keep in mind that my search
 pattern does not necessarily resemble the typical user's pattern, because I
 don't rely on a search engine for answers to brain-dead questions.
