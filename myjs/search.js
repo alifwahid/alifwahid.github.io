@@ -40,7 +40,6 @@
             this.field('id');
             this.field('title', {boost: 10});
             this.field('tags');
-            this.field('categories');
             this.field('content');
             this.field('excerpt');
             for (var key in window.store) {
@@ -48,7 +47,6 @@
                     'id': key,
                     'title': window.store[key].title,
                     'tags': window.store[key].tags,
-                    'categories': window.store[key].categories,
                     'content': window.store[key].content,
                     'excerpt': window.store[key].excerpt
                 });
