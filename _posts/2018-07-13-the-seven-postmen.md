@@ -2,7 +2,6 @@
 layout     : post
 title      : "The Seven Postmen"
 tags       : []
-categories : [neil postman, philosophy, technology]
 excerpt    : Thoughts on Neil Postman's 1997 lecture "The Surrender of Culture to Technology".
 ---
 

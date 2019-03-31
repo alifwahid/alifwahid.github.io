@@ -2,7 +2,6 @@
 layout     : post
 title      : "Your Head Is Older Than Your Feet"
 tags       : [einstein, feynman, wineland, rovelli]
-categories : [physics, relativity, time, philosophy]
 excerpt    : A memorable way to understand Einstein's relativity.
 ---
 

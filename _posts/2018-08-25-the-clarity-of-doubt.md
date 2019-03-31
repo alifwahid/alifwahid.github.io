@@ -2,7 +2,6 @@
 layout     : post
 title      : "The Clarity Of Doubt"
 tags       : [probability, uncertainty, thinking]
-categories : [science, philosophy, psychology]
 excerpt    : A marvellous tool of science and reasoning.
 ---
 

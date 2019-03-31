@@ -2,7 +2,6 @@
 layout     : post
 title      : "The Waterproof Parcel"
 tags       : [ignorance, abstractions, chunking, thinking]
-categories : [philosophy, psychology, history, films, songs]
 excerpt    : Marvels and flaws of ignorance.
 ---
 

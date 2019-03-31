@@ -2,7 +2,6 @@
 layout     : post
 title      : "On Being Concise, But Imprecise"
 tags       : [thomas stearns eliot, burnt norton]
-categories : [poetry, philosophy, semantics]
 excerpt    : When words will not stay still.
 ---
 

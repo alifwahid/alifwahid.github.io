@@ -2,7 +2,6 @@
 layout     : post
 title      : "Forever Is Composed Of Nows"
 tags       : [randomness, weather forecasting, solar system evolution]
-categories : [simulations, statistics, poetry]
 excerpt    : Dickinsonian intuitions about simulations.
 ---
 

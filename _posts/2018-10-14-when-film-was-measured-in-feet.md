@@ -2,7 +2,6 @@
 layout     : post
 title      : "When Film Was Measured In Feet"
 tags       : [film, documentary, books]
-categories : [science, history, philosophy]
 excerpt    : Three documentaries that are unequalled.
 ---
 

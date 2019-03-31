@@ -2,7 +2,6 @@
 layout     : post
 title      : "Social Media Are Failed Marketplaces"
 tags       : [market design, game theory, social media]
-categories : [economics, psychology, privacy]
 excerpt    : Who gets what in social media - and why?
 ---
 

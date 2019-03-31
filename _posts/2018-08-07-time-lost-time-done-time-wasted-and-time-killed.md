@@ -2,7 +2,6 @@
 layout     : post
 title      : "Time Lost, Time Done, Time Wasted, And Time Killed"
 tags       : [opportunity cost, sunk cost, investment, time management]
-categories : [psychology, economics, rationality, philosophy]
 excerpt    : Deciding what to spend time on is tricky.
 ---
 

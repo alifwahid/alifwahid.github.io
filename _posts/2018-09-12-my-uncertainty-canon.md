@@ -2,7 +2,6 @@
 layout     : post
 title      : "My Uncertainty Canon"
 tags       : [books, thinking, uncertainty, judgement]
-categories : [psychology, philosophy]
 excerpt    : Books that have shaped my thinking about uncertainty.
 ---
 

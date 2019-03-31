@@ -2,7 +2,6 @@
 layout     : post
 title      : "Packing Books Into Boxes"
 tags       : [books, boxes, packing, heuristic, shipping]
-categories : [algorithms, combinatorics, optimisation]
 excerpt    : My heuristic for packing books into boxes before shipping.
 ---
 

@@ -2,7 +2,6 @@
 layout     : post
 title      : "The Problematic Y"
 tags       : [curiosity, problem definition, question formulation]
-categories : [philosophy, psychology]
 excerpt    : How I try to think about a problem before rushing to solutions.
 ---
 

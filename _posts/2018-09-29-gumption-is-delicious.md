@@ -2,7 +2,6 @@
 layout     : post
 title      : "Gumption Is Delicious"
 tags       : [words, tastes, sounds, pleasures]
-categories : [language, meaning, knowledge]
 excerpt    : The edible pleasure of learning a wicked word.
 ---
 
