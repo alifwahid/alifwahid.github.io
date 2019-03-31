@@ -12,7 +12,6 @@ permalink: /search/
       "{{ post.url | slugify }}": {
         "title": "{{ post.title | xml_escape }}",
         "tags": {{ post.tags  | strip_html | jsonify }},
-        "categories": {{ post.categories | strip_html | jsonify }},
         "content": {{ post.content | strip_html | jsonify }},
         "excerpt": {{ post.excerpt | strip_html | jsonify }},
         "url": "{{ post.url | xml_escape }}"
