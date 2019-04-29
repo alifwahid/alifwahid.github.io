@@ -6,7 +6,7 @@ permalink: /about/
 
 ![profile]({{ "/imgs/profile.jpg" | absolute_url }})
 
-Hello, my name is Alif Wahid. Welcome to my personal blog. It contains bits and
+Hello, my name is Alif Wahid. Welcome to my website. It contains bits and
 pieces that interest me. Feel free to get in touch via GitHub, as I have no
 presence elsewhere. For those interested, my PhD thesis is openly accessible
 [here][thesis]. Also, [DBLP][dblp] lists my research publications.
