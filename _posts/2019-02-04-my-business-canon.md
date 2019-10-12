@@ -23,7 +23,7 @@ nothing that surpasses the insights from these books, nor invalidates their
 assertions. Hence they now constitute my business canon for the sake of
 posterity.
 
-[ucanon]: {{ "psychology/philosophy/2018/09/12/my-uncertainty-canon.html" | absolute_url }}
+[ucanon]: {{ "2018/09/12/my-uncertainty-canon.html" | absolute_url }}
 
 The first book is from 1997, titled *The Innovator's Dilemma*. It's written by
 Clayton Christensen, who is a legendary scholar of management theory and

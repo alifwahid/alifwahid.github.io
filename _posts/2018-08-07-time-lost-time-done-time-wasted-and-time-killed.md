@@ -27,7 +27,7 @@ relativity. But it is a minuscule effect during the course of a human's life. I
 suppose what I'm alluding to is the subtle task of deciding what to spend time
 on, while being rational and utility maximising.
 
-[prev]: {{ "physics/relativity/time/philosophy/2018/08/03/your-head-is-older-than-your-feet.html" | absolute_url }}
+[prev]: {{ "2018/08/03/your-head-is-older-than-your-feet.html" | absolute_url }}
 
 
 ## A pipe dream

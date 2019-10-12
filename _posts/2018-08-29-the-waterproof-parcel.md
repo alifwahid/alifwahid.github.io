@@ -60,7 +60,7 @@ question raised by doubt. This realisation, I think, fosters the sort of
 *conscious ignorance* that leads to pondering, observing, theorising,
 experimenting, and falsifying in our modern scientific quest for knowledge.
 
-[prev]: {{ "science/philosophy/psychology/2018/08/25/the-clarity-of-doubt.html" | absolute_url }}
+[prev]: {{ "2018/08/25/the-clarity-of-doubt.html" | absolute_url }}
 
 
 ## The power of chunking
