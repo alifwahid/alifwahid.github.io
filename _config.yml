@@ -38,4 +38,5 @@ sass:
   style: compressed
 
 header_pages:
+  - substack.md
   - about.md
