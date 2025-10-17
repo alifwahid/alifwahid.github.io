@@ -21,7 +21,7 @@ my gmail is very easy to guess using my first and last names separated by a dot.
 For anyone interested, my PhD thesis is openly accessible [here][thesis]. And [DBLP][dblp] lists
 my prior research publications. But I'm not an academic and don't write like one either. So my
 prior publications are for posterity more than anything else. This website is where you'll find
-what I write nowadays: largely focused on physics, philosophy, and poetry, all from an engineering
+what I write nowadays: largely focused on physics, philosophy, and poetry, all from an engineer's
 perspective.
 
 [thesis]:    https://minerva-access.unimelb.edu.au/handle/11343/38139
