@@ -11,8 +11,11 @@ on my writings and engage in discussions.
 [suburl]: https://alifwahid.substack.com
 
 
+* [Written by a Human][sub003]
 * [Breaking English][sub002]
 * [Noisy Channel][sub001]
 
+
+[sub003]: https://alifwahid.substack.com/p/written-by-a-human
 [sub002]: https://alifwahid.substack.com/p/breaking-english
 [sub001]: https://alifwahid.substack.com/p/noisy-channel
