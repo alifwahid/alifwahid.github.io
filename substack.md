@@ -11,12 +11,14 @@ on my writings and engage in discussions.
 [suburl]: https://alifwahid.substack.com
 
 
+* [Questions Endure, Answers Change][sub005]
 * [Reading Our Writing][sub004]
 * [Written by a Human][sub003]
 * [Breaking English][sub002]
 * [Noisy Channel][sub001]
 
 
+[sub005]: https://alifwahid.substack.com/p/questions-endure-answers-change
 [sub004]: https://alifwahid.substack.com/p/reading-our-writing
 [sub003]: https://alifwahid.substack.com/p/written-by-a-human
 [sub002]: https://alifwahid.substack.com/p/breaking-english
