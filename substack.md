@@ -11,6 +11,7 @@ on my writings and engage in discussions.
 [suburl]: https://alifwahid.substack.com
 
 
+* [Experts and Their Expertise][sub006]
 * [Questions Endure, Answers Change][sub005]
 * [Reading Our Writing][sub004]
 * [Written by a Human][sub003]
@@ -18,6 +19,7 @@ on my writings and engage in discussions.
 * [Noisy Channel][sub001]
 
 
+[sub006]: https://alifwahid.substack.com/p/experts-and-their-expertise
 [sub005]: https://alifwahid.substack.com/p/questions-endure-answers-change
 [sub004]: https://alifwahid.substack.com/p/reading-our-writing
 [sub003]: https://alifwahid.substack.com/p/written-by-a-human
