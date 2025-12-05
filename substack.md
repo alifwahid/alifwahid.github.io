@@ -11,6 +11,7 @@ on my writings and engage in discussions.
 [suburl]: https://alifwahid.substack.com
 
 
+* [Appreciation for Ironies][sub008]
 * [CUA and TRM][sub007]
 * [Experts and Their Expertise][sub006]
 * [Questions Endure, Answers Change][sub005]
@@ -19,6 +20,8 @@ on my writings and engage in discussions.
 * [Breaking English][sub002]
 * [Noisy Channel][sub001]
 
+
+[sub008]: https://alifwahid.substack.com/p/appreciation-for-ironies
 [sub007]: https://alifwahid.substack.com/p/cua-and-trm
 [sub006]: https://alifwahid.substack.com/p/experts-and-their-expertise
 [sub005]: https://alifwahid.substack.com/p/questions-endure-answers-change
