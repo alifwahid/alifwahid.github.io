@@ -11,6 +11,7 @@ on my writings and engage in discussions.
 [suburl]: https://alifwahid.substack.com
 
 
+* [A Protein Universe][sub009]
 * [Appreciation for Ironies][sub008]
 * [CUA and TRM][sub007]
 * [Experts and Their Expertise][sub006]
@@ -21,6 +22,7 @@ on my writings and engage in discussions.
 * [Noisy Channel][sub001]
 
 
+[sub009]: https://alifwahid.substack.com/p/a-protein-universe
 [sub008]: https://alifwahid.substack.com/p/appreciation-for-ironies
 [sub007]: https://alifwahid.substack.com/p/cua-and-trm
 [sub006]: https://alifwahid.substack.com/p/experts-and-their-expertise
