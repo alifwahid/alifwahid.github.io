@@ -34,6 +34,11 @@ Pages][ghpages]. You can get the Git repository [here][repo]. I use the
 excellent [MathJax][mathjax] and [D3][d3js] libraries in various posts.
 So it's best to enable JavaScript in your browser for optimal rendering.
 
+Cheers from NZ :-)
+
+Alif
+
+
 [jekyll]:    https://jekyllrb.com
 [minima]:    https://github.com/jekyll/minima
 [ghpages]:   https://pages.github.com/
