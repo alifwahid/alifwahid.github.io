@@ -6,13 +6,14 @@ permalink: /about/
 
 ![profile]({{ "/imgs/profile.jpg" | absolute_url }})
 
-Hello, my name is **Alif Wahid**. Welcome to my website! It contains bits and
+Hello there,
+
+My name is **Alif Wahid**. Welcome to my website! It contains bits and
 pieces that interest me. All opinions expressed on this site are my own.
 
-I'm a solopreneur in New Zealand. I've worked as a computer engineer for more than two decades,
-and branched out into a solo career as of October 2025. Feel free to get in touch with me via
-[Bluesky][bluesky], [Substack][substack], or [Github][github]. I don't use other platforms. And
-my gmail is very easy to guess using my first and last names separated by a dot.
+I'm a solopreneur in New Zealand. After working as a computer engineer for more than two decades
+I've branched out into a solo career as of October 2025. Feel free to get in touch with me via
+[Bluesky][bluesky], [Substack][substack], or [Github][github]. I *don't* use any other platform.
 
 [substack]:  https://substack.com/@alifwahid
 [bluesky]:   https://bsky.app/profile/alifwahid.bsky.social
