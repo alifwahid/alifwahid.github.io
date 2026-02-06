@@ -11,6 +11,7 @@ on my writings and engage in discussions.
 [suburl]: https://alifwahid.substack.com
 
 
+* [Two Books on Sales Methods][sub014]
 * [A Sketch of Fiat Money][sub013]
 * [Four Metaphors of Money][sub012]
 * [How Do Aliens Use Money?][sub011]
@@ -26,6 +27,7 @@ on my writings and engage in discussions.
 * [Noisy Channel][sub001]
 
 
+[sub014]: https://alifwahid.substack.com/p/two-books-on-sales-methods
 [sub013]: https://alifwahid.substack.com/p/a-sketch-of-fiat-money
 [sub012]: https://alifwahid.substack.com/p/four-metaphors-of-money
 [sub011]: https://alifwahid.substack.com/p/how-do-aliens-use-money
