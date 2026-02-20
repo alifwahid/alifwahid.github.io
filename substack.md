@@ -11,6 +11,7 @@ on my writings and engage in discussions.
 [suburl]: https://alifwahid.substack.com
 
 
+* [My Own Library][sub016]
 * [Information Leaks][sub015]
 * [Two Books on Sales Methods][sub014]
 * [A Sketch of Fiat Money][sub013]
@@ -28,6 +29,7 @@ on my writings and engage in discussions.
 * [Noisy Channel][sub001]
 
 
+[sub016]: https://alifwahid.substack.com/p/my-library
 [sub015]: https://alifwahid.substack.com/p/information-leaks
 [sub014]: https://alifwahid.substack.com/p/two-books-on-sales-methods
 [sub013]: https://alifwahid.substack.com/p/a-sketch-of-fiat-money
