@@ -11,6 +11,7 @@ on my writings and engage in discussions.
 [suburl]: https://alifwahid.substack.com
 
 
+* [Supply Network][sub017]
 * [My Own Library][sub016]
 * [Information Leaks][sub015]
 * [Two Books on Sales Methods][sub014]
@@ -29,6 +30,7 @@ on my writings and engage in discussions.
 * [Noisy Channel][sub001]
 
 
+[sub017]: https://alifwahid.substack.com/p/supply-network
 [sub016]: https://alifwahid.substack.com/p/my-library
 [sub015]: https://alifwahid.substack.com/p/information-leaks
 [sub014]: https://alifwahid.substack.com/p/two-books-on-sales-methods
