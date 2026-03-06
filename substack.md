@@ -11,6 +11,7 @@ on my writings and engage in discussions.
 [suburl]: https://alifwahid.substack.com
 
 
+* [The Waterproof Parcel][sub018]
 * [Supply Network][sub017]
 * [My Own Library][sub016]
 * [Information Leaks][sub015]
@@ -30,6 +31,7 @@ on my writings and engage in discussions.
 * [Noisy Channel][sub001]
 
 
+[sub018]: https://alifwahid.substack.com/p/the-waterproof-parcel
 [sub017]: https://alifwahid.substack.com/p/supply-network
 [sub016]: https://alifwahid.substack.com/p/my-library
 [sub015]: https://alifwahid.substack.com/p/information-leaks
