@@ -11,6 +11,7 @@ on my writings and engage in discussions.
 [suburl]: https://alifwahid.substack.com
 
 
+* [How Do Movies Get Funded?][sub020]
 * [The Problematic Y][sub019]
 * [The Waterproof Parcel][sub018]
 * [Supply Network][sub017]
@@ -32,6 +33,7 @@ on my writings and engage in discussions.
 * [Noisy Channel][sub001]
 
 
+[sub020]: https://alifwahid.substack.com/p/how-do-movies-get-funded
 [sub019]: https://alifwahid.substack.com/p/the-problematic-y
 [sub018]: https://alifwahid.substack.com/p/the-waterproof-parcel
 [sub017]: https://alifwahid.substack.com/p/supply-network
