@@ -11,6 +11,7 @@ on my writings and engage in discussions.
 [suburl]: https://alifwahid.substack.com
 
 
+* [Abundance and Scarcity of Housing][sub021]
 * [How Do Movies Get Funded?][sub020]
 * [The Problematic Y][sub019]
 * [The Waterproof Parcel][sub018]
@@ -33,6 +34,7 @@ on my writings and engage in discussions.
 * [Noisy Channel][sub001]
 
 
+[sub021]: https://alifwahid.substack.com/p/abundance-and-scarcity-of-housing
 [sub020]: https://alifwahid.substack.com/p/how-do-movies-get-funded
 [sub019]: https://alifwahid.substack.com/p/the-problematic-y
 [sub018]: https://alifwahid.substack.com/p/the-waterproof-parcel
