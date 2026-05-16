@@ -39,7 +39,7 @@ surface of various geometric objects. He derives a simple equation (number 42.6
 in the linked site) that I'll reproduce below in verbose form.
 
 $$ \begin{equation}
-\frac{\text{clock at your feet}}{\text{clock at your head}} = \;
+\frac{\text{clock at your head}}{\text{clock at your feet}} = \;
 \frac{\text{gravity} \times \text{height}}{\text{lightspeed}^2} + 1
 \end{equation}
 $$
