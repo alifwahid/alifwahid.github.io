@@ -11,6 +11,7 @@ on my writings and engage in discussions.
 [suburl]: https://alifwahid.substack.com
 
 
+* [Dissecting Frogs][sub023]
 * [Where's Tomorrow Waiting?][sub022]
 * [Abundance and Scarcity of Housing][sub021]
 * [How Do Movies Get Funded?][sub020]
@@ -35,6 +36,7 @@ on my writings and engage in discussions.
 * [Noisy Channel][sub001]
 
 
+[sub023]: https://alifwahid.substack.com/p/dissecting-frogs
 [sub022]: https://alifwahid.substack.com/p/wheres-tomorrow-waiting
 [sub021]: https://alifwahid.substack.com/p/abundance-and-scarcity-of-housing
 [sub020]: https://alifwahid.substack.com/p/how-do-movies-get-funded
