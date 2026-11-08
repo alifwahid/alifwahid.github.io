@@ -11,6 +11,7 @@ on my writings and engage in discussions.
 [suburl]: https://alifwahid.substack.com
 
 
+* [Political Plane][sub027]
 * [Books That Offer Questions][sub026]
 * [Understanding Histories][sub025]
 * [Sunless Seas and Songless Suns][sub024]
@@ -39,6 +40,7 @@ on my writings and engage in discussions.
 * [Noisy Channel][sub001]
 
 
+[sub027]: https://alifwahid.substack.com/p/political-plane
 [sub026]: https://alifwahid.substack.com/p/books-that-offer-questions
 [sub025]: https://alifwahid.substack.com/p/understanding-histories
 [sub024]: https://alifwahid.substack.com/p/sunless-seas-and-songless-suns
